@@ -1,0 +1,17 @@
+{
+  "root": "/home/wll/uidreczz28dV8YMfCbV",
+  "B": "/home/wll/uidreczz28dV8YMfCbV",
+  "sha": "18e8191350e755995c889e0b6c819afdb95bc89f",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "mudler",
+    "repo": "LocalAI",
+    "sha": "18e8191350e755995c889e0b6c819afdb95bc89f"
+  },
+  "fork": {
+    "owner": "KeiMo7",
+    "repo": "LocalAI",
+    "cloneUrl": "https://github.com/KeiMo7/LocalAI.git"
+  },
+  "at": "2026-11-24T16:37:03.028Z"
+}
